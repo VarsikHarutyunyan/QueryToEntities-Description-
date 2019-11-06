@@ -1,0 +1,13 @@
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Aggregate operations\bin\Debug\netcoreapp2.0\006_Aggregate operations.deps.json
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Aggregate operations\bin\Debug\netcoreapp2.0\006_Aggregate operations.runtimeconfig.json
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Aggregate operations\bin\Debug\netcoreapp2.0\006_Aggregate operations.runtimeconfig.dev.json
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Aggregate operations\bin\Debug\netcoreapp2.0\006_Aggregate operations.dll
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Aggregate operations\bin\Debug\netcoreapp2.0\006_Aggregate operations.pdb
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Aggregate operations\bin\Debug\netcoreapp2.0\001_Queries LINQ to Entities.dll
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Aggregate operations\bin\Debug\netcoreapp2.0\001_Queries LINQ to Entities.pdb
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Aggregate operations\obj\Debug\netcoreapp2.0\006_Aggregate operations.csprojAssemblyReference.cache
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Aggregate operations\obj\Debug\netcoreapp2.0\006_Aggregate operations.AssemblyInfoInputs.cache
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Aggregate operations\obj\Debug\netcoreapp2.0\006_Aggregate operations.AssemblyInfo.cs
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Aggregate operations\obj\Debug\netcoreapp2.0\006_Aggregate operations.csproj.CopyComplete
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Aggregate operations\obj\Debug\netcoreapp2.0\006_Aggregate operations.dll
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Aggregate operations\obj\Debug\netcoreapp2.0\006_Aggregate operations.pdb

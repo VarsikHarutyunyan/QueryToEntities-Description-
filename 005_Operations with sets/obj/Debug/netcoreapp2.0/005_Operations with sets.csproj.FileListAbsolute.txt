@@ -1,0 +1,13 @@
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\005_Operations with sets\bin\Debug\netcoreapp2.0\005_Operations with sets.deps.json
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\005_Operations with sets\bin\Debug\netcoreapp2.0\005_Operations with sets.runtimeconfig.json
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\005_Operations with sets\bin\Debug\netcoreapp2.0\005_Operations with sets.runtimeconfig.dev.json
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\005_Operations with sets\bin\Debug\netcoreapp2.0\005_Operations with sets.dll
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\005_Operations with sets\bin\Debug\netcoreapp2.0\005_Operations with sets.pdb
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\005_Operations with sets\bin\Debug\netcoreapp2.0\001_Queries LINQ to Entities.dll
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\005_Operations with sets\bin\Debug\netcoreapp2.0\001_Queries LINQ to Entities.pdb
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\005_Operations with sets\obj\Debug\netcoreapp2.0\005_Operations with sets.csprojAssemblyReference.cache
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\005_Operations with sets\obj\Debug\netcoreapp2.0\005_Operations with sets.AssemblyInfoInputs.cache
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\005_Operations with sets\obj\Debug\netcoreapp2.0\005_Operations with sets.AssemblyInfo.cs
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\005_Operations with sets\obj\Debug\netcoreapp2.0\005_Operations with sets.csproj.CopyComplete
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\005_Operations with sets\obj\Debug\netcoreapp2.0\005_Operations with sets.dll
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\005_Operations with sets\obj\Debug\netcoreapp2.0\005_Operations with sets.pdb

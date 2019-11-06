@@ -1,0 +1,13 @@
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\004_Joining and grouping tables\bin\Debug\netcoreapp2.0\004_Joining and grouping tables.deps.json
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\004_Joining and grouping tables\bin\Debug\netcoreapp2.0\004_Joining and grouping tables.runtimeconfig.json
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\004_Joining and grouping tables\bin\Debug\netcoreapp2.0\004_Joining and grouping tables.runtimeconfig.dev.json
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\004_Joining and grouping tables\bin\Debug\netcoreapp2.0\004_Joining and grouping tables.dll
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\004_Joining and grouping tables\bin\Debug\netcoreapp2.0\004_Joining and grouping tables.pdb
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\004_Joining and grouping tables\bin\Debug\netcoreapp2.0\001_Queries LINQ to Entities.dll
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\004_Joining and grouping tables\bin\Debug\netcoreapp2.0\001_Queries LINQ to Entities.pdb
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\004_Joining and grouping tables\obj\Debug\netcoreapp2.0\004_Joining and grouping tables.csprojAssemblyReference.cache
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\004_Joining and grouping tables\obj\Debug\netcoreapp2.0\004_Joining and grouping tables.AssemblyInfoInputs.cache
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\004_Joining and grouping tables\obj\Debug\netcoreapp2.0\004_Joining and grouping tables.AssemblyInfo.cs
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\004_Joining and grouping tables\obj\Debug\netcoreapp2.0\004_Joining and grouping tables.csproj.CopyComplete
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\004_Joining and grouping tables\obj\Debug\netcoreapp2.0\004_Joining and grouping tables.dll
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\004_Joining and grouping tables\obj\Debug\netcoreapp2.0\004_Joining and grouping tables.pdb

@@ -1,0 +1,13 @@
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\007_IQueryable\bin\Debug\netcoreapp2.0\007_IQueryable.deps.json
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\007_IQueryable\bin\Debug\netcoreapp2.0\007_IQueryable.runtimeconfig.json
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\007_IQueryable\bin\Debug\netcoreapp2.0\007_IQueryable.runtimeconfig.dev.json
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\007_IQueryable\bin\Debug\netcoreapp2.0\007_IQueryable.dll
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\007_IQueryable\bin\Debug\netcoreapp2.0\007_IQueryable.pdb
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\007_IQueryable\bin\Debug\netcoreapp2.0\001_Queries LINQ to Entities.dll
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\007_IQueryable\bin\Debug\netcoreapp2.0\001_Queries LINQ to Entities.pdb
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\007_IQueryable\obj\Debug\netcoreapp2.0\007_IQueryable.csprojAssemblyReference.cache
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\007_IQueryable\obj\Debug\netcoreapp2.0\007_IQueryable.AssemblyInfoInputs.cache
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\007_IQueryable\obj\Debug\netcoreapp2.0\007_IQueryable.AssemblyInfo.cs
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\007_IQueryable\obj\Debug\netcoreapp2.0\007_IQueryable.csproj.CopyComplete
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\007_IQueryable\obj\Debug\netcoreapp2.0\007_IQueryable.dll
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\007_IQueryable\obj\Debug\netcoreapp2.0\007_IQueryable.pdb

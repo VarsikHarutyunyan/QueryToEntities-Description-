@@ -1,0 +1,18 @@
+C:\Users\Vitalii\OneDrive\Entity Framework Core 2.0\4 Lesson\Queries LINQ to Entities\008_Query filters for the model level\bin\Debug\netcoreapp2.0\008_Query filters for the model level.deps.json
+C:\Users\Vitalii\OneDrive\Entity Framework Core 2.0\4 Lesson\Queries LINQ to Entities\008_Query filters for the model level\bin\Debug\netcoreapp2.0\008_Query filters for the model level.runtimeconfig.json
+C:\Users\Vitalii\OneDrive\Entity Framework Core 2.0\4 Lesson\Queries LINQ to Entities\008_Query filters for the model level\bin\Debug\netcoreapp2.0\008_Query filters for the model level.runtimeconfig.dev.json
+C:\Users\Vitalii\OneDrive\Entity Framework Core 2.0\4 Lesson\Queries LINQ to Entities\008_Query filters for the model level\bin\Debug\netcoreapp2.0\008_Query filters for the model level.dll
+C:\Users\Vitalii\OneDrive\Entity Framework Core 2.0\4 Lesson\Queries LINQ to Entities\008_Query filters for the model level\obj\Debug\netcoreapp2.0\008_Query filters for the model level.csprojResolveAssemblyReference.cache
+C:\Users\Vitalii\OneDrive\Entity Framework Core 2.0\4 Lesson\Queries LINQ to Entities\008_Query filters for the model level\obj\Debug\netcoreapp2.0\008_Query filters for the model level.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii\OneDrive\Entity Framework Core 2.0\4 Lesson\Queries LINQ to Entities\008_Query filters for the model level\obj\Debug\netcoreapp2.0\008_Query filters for the model level.AssemblyInfoInputs.cache
+C:\Users\Vitalii\OneDrive\Entity Framework Core 2.0\4 Lesson\Queries LINQ to Entities\008_Query filters for the model level\obj\Debug\netcoreapp2.0\008_Query filters for the model level.AssemblyInfo.cs
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\008_Query filters for the model level\bin\Debug\netcoreapp2.0\008_Query filters for the model level.deps.json
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\008_Query filters for the model level\bin\Debug\netcoreapp2.0\008_Query filters for the model level.runtimeconfig.json
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\008_Query filters for the model level\bin\Debug\netcoreapp2.0\008_Query filters for the model level.runtimeconfig.dev.json
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\008_Query filters for the model level\bin\Debug\netcoreapp2.0\008_Query filters for the model level.dll
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\008_Query filters for the model level\bin\Debug\netcoreapp2.0\008_Query filters for the model level.pdb
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\008_Query filters for the model level\obj\Debug\netcoreapp2.0\008_Query filters for the model level.csprojAssemblyReference.cache
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\008_Query filters for the model level\obj\Debug\netcoreapp2.0\008_Query filters for the model level.AssemblyInfoInputs.cache
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\008_Query filters for the model level\obj\Debug\netcoreapp2.0\008_Query filters for the model level.AssemblyInfo.cs
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\008_Query filters for the model level\obj\Debug\netcoreapp2.0\008_Query filters for the model level.dll
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\008_Query filters for the model level\obj\Debug\netcoreapp2.0\008_Query filters for the model level.pdb

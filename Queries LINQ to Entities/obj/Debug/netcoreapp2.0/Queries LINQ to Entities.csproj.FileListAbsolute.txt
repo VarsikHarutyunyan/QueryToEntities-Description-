@@ -1,0 +1,8 @@
+C:\Users\Vitalii\OneDrive\Entity Framework Core 2.0\4 Lesson\Queries LINQ to Entities\Queries LINQ to Entities\bin\Debug\netcoreapp2.0\Queries LINQ to Entities.deps.json
+C:\Users\Vitalii\OneDrive\Entity Framework Core 2.0\4 Lesson\Queries LINQ to Entities\Queries LINQ to Entities\bin\Debug\netcoreapp2.0\Queries LINQ to Entities.runtimeconfig.json
+C:\Users\Vitalii\OneDrive\Entity Framework Core 2.0\4 Lesson\Queries LINQ to Entities\Queries LINQ to Entities\bin\Debug\netcoreapp2.0\Queries LINQ to Entities.runtimeconfig.dev.json
+C:\Users\Vitalii\OneDrive\Entity Framework Core 2.0\4 Lesson\Queries LINQ to Entities\Queries LINQ to Entities\bin\Debug\netcoreapp2.0\Queries LINQ to Entities.dll
+C:\Users\Vitalii\OneDrive\Entity Framework Core 2.0\4 Lesson\Queries LINQ to Entities\Queries LINQ to Entities\obj\Debug\netcoreapp2.0\Queries LINQ to Entities.csprojResolveAssemblyReference.cache
+C:\Users\Vitalii\OneDrive\Entity Framework Core 2.0\4 Lesson\Queries LINQ to Entities\Queries LINQ to Entities\obj\Debug\netcoreapp2.0\Queries LINQ to Entities.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii\OneDrive\Entity Framework Core 2.0\4 Lesson\Queries LINQ to Entities\Queries LINQ to Entities\obj\Debug\netcoreapp2.0\Queries LINQ to Entities.AssemblyInfoInputs.cache
+C:\Users\Vitalii\OneDrive\Entity Framework Core 2.0\4 Lesson\Queries LINQ to Entities\Queries LINQ to Entities\obj\Debug\netcoreapp2.0\Queries LINQ to Entities.AssemblyInfo.cs

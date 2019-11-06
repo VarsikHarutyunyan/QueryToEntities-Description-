@@ -1,0 +1,13 @@
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Data selection and filtering\bin\Debug\netcoreapp2.0\002_Data selection and filtering.deps.json
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Data selection and filtering\bin\Debug\netcoreapp2.0\002_Data selection and filtering.runtimeconfig.json
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Data selection and filtering\bin\Debug\netcoreapp2.0\002_Data selection and filtering.runtimeconfig.dev.json
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Data selection and filtering\bin\Debug\netcoreapp2.0\002_Data selection and filtering.dll
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Data selection and filtering\bin\Debug\netcoreapp2.0\002_Data selection and filtering.pdb
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Data selection and filtering\bin\Debug\netcoreapp2.0\001_Queries LINQ to Entities.dll
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Data selection and filtering\bin\Debug\netcoreapp2.0\001_Queries LINQ to Entities.pdb
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Data selection and filtering\obj\Debug\netcoreapp2.0\002_Data selection and filtering.csprojAssemblyReference.cache
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Data selection and filtering\obj\Debug\netcoreapp2.0\002_Data selection and filtering.AssemblyInfoInputs.cache
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Data selection and filtering\obj\Debug\netcoreapp2.0\002_Data selection and filtering.AssemblyInfo.cs
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Data selection and filtering\obj\Debug\netcoreapp2.0\002_Data selection and filtering.csproj.CopyComplete
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Data selection and filtering\obj\Debug\netcoreapp2.0\002_Data selection and filtering.dll
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Data selection and filtering\obj\Debug\netcoreapp2.0\002_Data selection and filtering.pdb

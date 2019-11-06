@@ -1,0 +1,10 @@
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Queries LINQ to Entities\bin\Debug\netcoreapp2.0\001_Queries LINQ to Entities.deps.json
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Queries LINQ to Entities\bin\Debug\netcoreapp2.0\001_Queries LINQ to Entities.runtimeconfig.json
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Queries LINQ to Entities\bin\Debug\netcoreapp2.0\001_Queries LINQ to Entities.runtimeconfig.dev.json
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Queries LINQ to Entities\bin\Debug\netcoreapp2.0\001_Queries LINQ to Entities.dll
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Queries LINQ to Entities\bin\Debug\netcoreapp2.0\001_Queries LINQ to Entities.pdb
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Queries LINQ to Entities\obj\Debug\netcoreapp2.0\001_Queries LINQ to Entities.csprojAssemblyReference.cache
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Queries LINQ to Entities\obj\Debug\netcoreapp2.0\001_Queries LINQ to Entities.AssemblyInfoInputs.cache
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Queries LINQ to Entities\obj\Debug\netcoreapp2.0\001_Queries LINQ to Entities.AssemblyInfo.cs
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Queries LINQ to Entities\obj\Debug\netcoreapp2.0\001_Queries LINQ to Entities.dll
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\Queries LINQ to Entities\obj\Debug\netcoreapp2.0\001_Queries LINQ to Entities.pdb

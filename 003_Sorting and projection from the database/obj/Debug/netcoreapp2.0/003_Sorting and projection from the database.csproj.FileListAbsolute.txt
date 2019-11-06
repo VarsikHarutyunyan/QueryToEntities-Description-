@@ -1,0 +1,13 @@
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\003_Sorting and projection from the database\bin\Debug\netcoreapp2.0\003_Sorting and projection from the database.deps.json
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\003_Sorting and projection from the database\bin\Debug\netcoreapp2.0\003_Sorting and projection from the database.runtimeconfig.json
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\003_Sorting and projection from the database\bin\Debug\netcoreapp2.0\003_Sorting and projection from the database.runtimeconfig.dev.json
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\003_Sorting and projection from the database\bin\Debug\netcoreapp2.0\003_Sorting and projection from the database.dll
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\003_Sorting and projection from the database\bin\Debug\netcoreapp2.0\003_Sorting and projection from the database.pdb
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\003_Sorting and projection from the database\bin\Debug\netcoreapp2.0\001_Queries LINQ to Entities.dll
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\003_Sorting and projection from the database\bin\Debug\netcoreapp2.0\001_Queries LINQ to Entities.pdb
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\003_Sorting and projection from the database\obj\Debug\netcoreapp2.0\003_Sorting and projection from the database.csprojAssemblyReference.cache
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\003_Sorting and projection from the database\obj\Debug\netcoreapp2.0\003_Sorting and projection from the database.AssemblyInfoInputs.cache
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\003_Sorting and projection from the database\obj\Debug\netcoreapp2.0\003_Sorting and projection from the database.AssemblyInfo.cs
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\003_Sorting and projection from the database\obj\Debug\netcoreapp2.0\003_Sorting and projection from the database.csproj.CopyComplete
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\003_Sorting and projection from the database\obj\Debug\netcoreapp2.0\003_Sorting and projection from the database.dll
+C:\Users\Varsik\Desktop\Entity  Framework Core 2.0\4 урок\Samples\003_Sorting and projection from the database\obj\Debug\netcoreapp2.0\003_Sorting and projection from the database.pdb
